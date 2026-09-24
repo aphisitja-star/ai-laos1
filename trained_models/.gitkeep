@@ -1,0 +1,2 @@
+# This directory stores trained model files (.h5)
+# Run `python models/train_model.py --train` to generate models
